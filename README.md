@@ -1,6 +1,7 @@
 # Hawaii Climate Analysis - Surf's up
 Data engineering project - playing between different platforms.
 
+![Surfer's Image](http://www.aquabumps.com/wp-content/uploads/2009/08/20090826-andy-irons.jpg)
 
 This project was fun. It involved :
 - cleaning csv data
