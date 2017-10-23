@@ -10,7 +10,6 @@ This project was fun. It involved :
 - visualizing results using matplotlib
 - creating a flask api for user to explore data
 
-The detailed instructions for Surf's Up project are 
-<a target="_blank" href="https://docs.google.com/document/d/1c8w5U6lZGyzBga7q50YC3nROAvDz8blxIOOepMTiUxo/edit#">here</a> 
+The detailed instructions for Surf's Up project are <a href="https://docs.google.com/document/d/1c8w5U6lZGyzBga7q50YC3nROAvDz8blxIOOepMTiUxo/edit#" target="_blank">here</a> 
 <!-- [here](https://docs.google.com/document/d/1c8w5U6lZGyzBga7q50YC3nROAvDz8blxIOOepMTiUxo/edit#) -->
 
